@@ -1,0 +1,7 @@
+# Note that TF for the GPU also requires CUDA Toolkit 9.0 and cuDNN 7.0.
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow-gpu
+jupyterlab
