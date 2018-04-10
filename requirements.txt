@@ -6,3 +6,4 @@ seaborn
 tensorflow-gpu
 keras
 jupyterlab
+sklearn
